@@ -40,7 +40,6 @@ export class ContactForm extends Component {
             value={this.state.name}
             onChange={this.onChange}
             required
-            placeholder=""
           />
         </label>
 
